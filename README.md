@@ -1,6 +1,6 @@
-#Fingervein Recognition Model3
+# Fingervein Recognition Model3
 ---
-This project include two part(matlab and tensorflow),which be finshed in 2017.5.
+This project implement in matlab and python,which be finshed in 2017.5.Be sure you have a GPU first,preprocess and cnn model in cpu is slow.
 
 ### 01_Genetic_Preprocess
 This part use Genetic algorithm to finish remapping.
@@ -21,11 +21,11 @@ The minFunc lib is need for this project, it can be found in Stanford course.
 Please add this project into PATH and run Main.m;
 
 ### use your own dataset
-In model 01_Genetic_Preprocess.
+In model 01_Genetic_Preprocess;  Change the path in Main_1.m & Main_2.m and Main_LoadData,m;
 ##Tensorflow
 **python2.7 + tensorflow1.1**
 ### Model
 Python is simple,and tensorflow is very convenience.After model 03,you can use different model in tf to improve it.A simple example will be include in my antoher warehouse.
 
-
+The dataset is very large.If you want to use my train features or dataset.
 **Please contact me awinyimgprocess at gmail.com.**
