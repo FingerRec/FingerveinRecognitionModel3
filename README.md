@@ -14,7 +14,7 @@ A simple CNN model is used in this part.After this part,get the feature map(Trau
 ### 04_Classification&Test
 Use OneVsAll classofocaion method.
  
-##Matlab
+## Matlab
 IDE:Matlab 2016a
 The minFunc lib is need for this project, it can be found in Stanford course.
 ### Run
@@ -22,10 +22,13 @@ Please add this project into PATH and run Main.m;
 
 ### use your own dataset
 In model 01_Genetic_Preprocess;  Change the path in Main_1.m & Main_2.m and Main_LoadData,m;
-##Tensorflow
+## Tensorflow
 **python2.7 + tensorflow1.1**
 ### Model
 Python is simple,and tensorflow is very convenience.After model 03,you can use different model in tf to improve it.A simple example will be include in my antoher warehouse.
 
-The dataset is very large.If you want to use my train features or dataset.
-**Please contact me awinyimgprocess at gmail.com.**
+The dataset is very large.
+## Data-Set
+1. The first Data-Set can be find here[SDUMLA_HMT](http://mla.sdu.edu.cn/info/1006/1195.htm), Release Aggrement should be offer.
+2．The second Data-set can be find here [fvc-2004](http://bias.csr.unibo.it/fvc2004/download.asp);You can also find it in other place. It's a open source database.
+**You can generate feature from code.**
