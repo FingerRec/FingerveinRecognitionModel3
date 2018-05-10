@@ -29,6 +29,6 @@ Python is simple,and tensorflow is very convenience.After model 03,you can use d
 
 The dataset is very large.
 ## Data-Set
-1. The first Data-Set can be find here[SDUMLA_HMT](http://mla.sdu.edu.cn/info/1006/1195.htm), Release Aggrement should be offer.
-2．The second Data-set can be find here [fvc-2004](http://bias.csr.unibo.it/fvc2004/download.asp);You can also find it in other place. It's a open source database.
+* 1. The first Data-Set can be find here[SDUMLA_HMT](http://mla.sdu.edu.cn/info/1006/1195.htm), Release Aggrement should be offer.
+* 2．The second Data-set can be find here [fvc-2004](http://bias.csr.unibo.it/fvc2004/download.asp);You can also find it in other place. It's a open source database.
 **You can generate feature from code.**
